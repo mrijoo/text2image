@@ -1,0 +1,28 @@
+{
+  "name": "@mrijoo/text2image",
+  "version": "1.0.0",
+  "description": "Create images from text",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrijoo/text2image.git"
+  },
+  "keywords": [
+    "text to image",
+    "text2image",
+    "convert text to image"
+  ],
+  "author": "izo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrijoo/text2image/issues"
+  },
+  "homepage": "https://github.com/mrijoo/text2image",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "canvas-txt": "^3.0.0"
+  }
+}
