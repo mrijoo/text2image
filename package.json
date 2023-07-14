@@ -23,6 +23,6 @@
   "homepage": "https://github.com/mrijoo/text2image",
   "dependencies": {
     "canvas": "^2.8.0",
-    "canvas-txt": "^3.0.0"
+    "canvas-txt": "^4.0.4"
   }
 }
